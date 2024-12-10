@@ -146,7 +146,8 @@ public LoredoRuizJavierAgenda(){
           if (Math.abs(dif)<=dias){
               System.out.println(c);
           }
-      }
+      //
+        }
   }
 }
 
